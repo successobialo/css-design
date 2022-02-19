@@ -1,0 +1,109 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+  border: 0;
+  background-color: azure;
+}
+
+.contain{
+  margin: 0 auto;
+  width: 620px;
+  margin-top: 150px;
+  height: 1000px;
+  border-radius: 30px;
+  overflow: hidden;
+
+}
+
+.card3{
+
+  margin: auto;
+  background-color:#75CBCC;
+  padding: 30px;
+  height: 300px;
+
+}
+
+.card2 {
+  margin: auto;
+  background-color:#2AB2AF;
+  padding: 15px;
+  height: 300px;
+}
+
+.card{
+  margin: auto;
+  background-color:white;
+  padding: 30px;
+  height: 300px;
+}
+
+.join1{
+  color: #2AB2AF;
+  font-size:40px;
+
+}
+
+.day{
+  color: #ADC92F;
+  font-size:30px;
+  margin-top: 1rem;
+
+}
+
+.gain{
+  color: rgba(0, 0, 0, 0.507);
+  font-size:larger;
+  margin-top: 1rem;
+
+}
+
+.monthly{
+  color: rgba(199, 188, 188, 0.979);
+  font-size:30px;
+
+}
+
+.amount{
+  color: white;
+  padding-top: 1rem;
+}
+
+.full{
+  color:  rgba(199, 188, 188, 0.979);
+  font-size:large;
+  margin-top: 1rem;
+
+}
+
+.sign{
+  width: 100%;
+  color: white;
+  text-align: center;
+  margin-bottom: 15px;
+  margin-top: 2rem;
+  background-color: #ADC92F;
+  box-shadow: 1px 1px 4px #222121;
+  
+  
+}
+
+.why{
+  color: white;
+  font-size:30px;
+
+}
+
+.tutorial{
+  color: white;
+  font-size:large;
+  padding: 2%;
+  margin-top: 2rem;
+
+}
+
+.card3 li{
+  list-style: none;
+}
